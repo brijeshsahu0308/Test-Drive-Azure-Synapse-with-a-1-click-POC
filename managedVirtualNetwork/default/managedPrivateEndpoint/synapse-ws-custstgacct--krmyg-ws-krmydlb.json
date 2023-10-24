@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--krmyg-ws-krmydlb",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4bf4c413-dc17-472b-8ae1-989810cb0004/resourceGroups/krmyg-b/providers/Microsoft.Storage/storageAccounts/krmydlb",
+		"groupId": "dfs"
+	}
+}
